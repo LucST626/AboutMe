@@ -1,5 +1,11 @@
-[![Header](https://raw.githubusercontent.com/LucST626/AboutMe/main/header.svg)
-](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c1b,100:6f1094&height=230&section=header&text=Hello%20there!%20I%27m%20Lucas%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Application%20Developer%20%26%20Cybersecurity&descSize=18&descAlignY=62&descColor=dcd0ff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:4b0082&height=200&section=header&text=Hello%20there!%20I'm%20Lucas&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0072FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Tech+Enthusiast;Always+Learning+New+Things" />
+</p>
+
 
 
 OMG
