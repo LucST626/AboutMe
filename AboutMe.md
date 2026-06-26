@@ -1,1 +1,1 @@
-![Header](https://raw.githubusercontent.com/LucST626/AboutMe/header.svg)
+![Header](https://raw.githubusercontent.com/LucST626/AboutMe/main/header.svg)
