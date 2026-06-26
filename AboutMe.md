@@ -6,4 +6,4 @@ OMG
 
 
 
-![Footer](https://raw.githubusercontent.com/lucas-header-demo/animated-header/main/footer.svg)
+![Footer](https://raw.githubusercontent.com/LucST626/AboutMe/main/footer.svg)
